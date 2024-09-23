@@ -1,0 +1,174 @@
+@media screen and (max-width: 1250px) {
+
+    * {
+        font-size: 16px;
+    }
+    .container {
+        width: 768px;
+    }
+
+    .cart a {
+        font-size: 40px;
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+
+    .element-logo {
+        width: 60px;
+    }
+
+    h2 {
+        font-size: 18px;
+    }
+
+    img.region {
+        width: 30px;
+    }
+
+    h1 span {
+        color: #00aaffa3;
+        font-size: 30px;
+    }
+
+    .fight img {
+        width: 30px;
+    }
+
+    .command {
+        width: 150px;
+        gap: 4px;
+    }
+
+    .us {
+        font-size: 16px;
+    }
+
+    input.data-form {
+        padding: 5px;
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 1050px) {
+
+    * {
+        font-size: 12px;
+    }
+    .container {
+        width: 100%;
+        padding:0 20px;
+    }
+
+    .cart a {
+        font-size: 40px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    .element-logo {
+        width: 40px;
+    }
+
+    h2 {
+        font-size: 16px;
+    }
+
+    img.region {
+        width: 30px;
+    }
+
+    h1 span {
+        color: #00aaffa3;
+        font-size: 24px;
+    }
+
+    .fight img {
+        width: 30px;
+    }
+
+    .command {
+        width: 150px;
+        gap: 4px;
+    }
+
+    .us {
+        font-size: 16px;
+    }
+
+    input.data-form {
+        padding: 5px;
+        font-size: 16px;
+    }
+}
+
+
+
+@media screen and (max-width: 780px) {
+    .main-card {
+        display: block;
+    }
+
+    .element {
+        display: block;
+    }
+
+    .leftBlock {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .element-logo {
+        width: 140px;
+    }
+
+    h2 {
+        font-size: 26px;
+    }
+
+    .element-location {
+        padding: 10px;
+    }
+    .element-location p {
+        font-size: 20px;
+    }
+
+    .fight.flex-1 {
+        flex-wrap: wrap;
+    }
+
+    .itog.flex-1 {
+        width: 100%;
+    }
+
+    .element-block .flex-1{
+        flex-wrap: wrap;
+    }
+
+    .date {
+        width: 100%;
+        text-align: center;
+        font-size: 20px;
+        padding: 10px;
+    }
+
+    .command.flex-1 {
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+        width: 50%;
+        border: 1px solid #eee;
+    }
+
+    .element-location.flex-1 {
+        width: 100%;
+    }
+
+    .fight.flex-1 {
+        flex-wrap: wrap;
+        width: 100%;
+    }
+}
